@@ -10,7 +10,7 @@
 ---
 
 ## 📄 My Resume
-[📄 **Download My Resume**](https://github.com/maynak-dev/maynak-dev/blob/main/Maynak_Dey_Resume.pdf)
+[📄 **Download My Resume**](MyResume.pdf)
 
 ---
 
