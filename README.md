@@ -10,7 +10,7 @@
 ---
 
 ## 📄 My Resume
-[📄 **Download My Resume**](MyResume.pdf)
+[📄 **Download My Resume**](#)
 
 ---
 
