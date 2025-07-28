@@ -18,7 +18,7 @@
 - **Frontend:** HTML5 | CSS3 | Bootstrap | JavaScript (ES6+) | React.js
 - **Backend:** C# | ASP.NET Core | .NET Core MVC | REST API
 - **Database:** Microsoft SQL Server | Entity Framework Core
-- **Tools:** Visual Studio | VS Code | Git/GitHub | Postman
+- **Tools:** Visual Studio | VS Code | Git/GitHub | Swagger
 
 ---
 
