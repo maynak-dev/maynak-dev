@@ -5,7 +5,7 @@
 - 👨‍💻 All of my projects are available at [github.com/maynak-dev](https://github.com/maynak-dev)
 - 💬 Ask me about **ASP.NET Core, Entity Framework, ReactJS, SQL Server**
 - 📫 How to reach me: **work.maynak@gmail.com**
-- 📄 Know about my experiences: [My Resume](#)
+- 📄 Know about my experiences: [My Resume](MyResume.pdf)
 
 ---
 
