@@ -1,18 +1,46 @@
 <h1 align="center">Hi 👋, I'm Maynak Dey</h1>
-<h3 align="center">A passionate .NET Full Stack Developer from India</h3>
+<h3 align="center">🚀 Aspiring .NET Full Stack Developer | React.js | ASP.NET Core | SQL Server</h3>
 
-- 🌱 I’m currently learning **C#,ASP.NET Core 6,Entity Framework,MVC,SQL Server,React.Js,BootStrap,REST APIs etc.**
-- 👨‍💻 All of my projects are available at [github.com/maynak-dev](https://github.com/maynak-dev)
-- 💬 Ask me about **ASP.NET Core, Entity Framework, ReactJS, SQL Server**
-- 📫 How to reach me: **work.maynak@gmail.com**
-- 📄 Know about my experiences: [My Resume](MyResume.pdf)
+<p align="center">
+  <a href="mailto:work.maynak@gmail.com">📧 Email</a> •
+  <a href="https://github.com/maynak-dev">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/your-linkedin/">🔗 LinkedIn</a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-```bash
-💻 Frontend: HTML | CSS | JavaScript | ReactJS | Bootstrap  
-🧠 Backend: ASP.NET Core 6 | Web API | Entity Framework Core  
-🗄️ Database: SQL Server  
-🌐 Tools: Git | Swagger | Visual Studio | VS Code  
+## 📄 My Resume
+[📄 **Download My Resume**](https://github.com/maynak-dev/maynak-dev/blob/main/Maynak_Dey_Resume.pdf)
 
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML5 | CSS3 | Bootstrap | JavaScript (ES6+) | React.js
+- **Backend:** C# | ASP.NET Core | .NET Core MVC | REST API
+- **Database:** Microsoft SQL Server | Entity Framework Core
+- **Tools:** Visual Studio | VS Code | Git/GitHub | Postman
+
+---
+
+## 📂 Featured Projects
+🔹 [**Hospital Management System**](https://github.com/maynak-dev/hospital-management-system) – ASP.NET Core + React.js + SQL Server  
+🔹 [**Inventory Management API**](https://github.com/maynak-dev/inventory-management-api) – ASP.NET Core Web API + EF Core  
+🔹 [**React Frontend for .NET API**](https://github.com/maynak-dev/react-frontend-dotnet-api) – React.js + Bootstrap
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maynak-dev&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maynak-dev&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maynak-dev&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+📧 Email: work.maynak@gmail.com  
