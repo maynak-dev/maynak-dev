@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:work.maynak@gmail.com">📧 Email</a> •
   <a href="https://github.com/maynak-dev">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin/">🔗 LinkedIn</a>
+  <a href="https://in.linkedin.com/in/maynak-dey-4a0046377">🔗 LinkedIn</a>
 </p>
 
 ---
