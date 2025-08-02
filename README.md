@@ -49,5 +49,5 @@
 ---
 
 ## 🌐 Let's Connect
-💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+💼 [LinkedIn](https://in.linkedin.com/in/maynak-dey-4a0046377)  
 📧 Email: work.maynak@gmail.com  
