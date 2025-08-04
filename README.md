@@ -30,9 +30,7 @@
 ---
 
 ## 📂 Featured Projects
-🔹 [**Hospital Management System**](https://github.com/maynak-dev/hospital-management-system) – ASP.NET Core + React.js + SQL Server  
-🔹 [**Inventory Management API**](https://github.com/maynak-dev/inventory-management-api) – ASP.NET Core Web API + EF Core  
-🔹 [**React Frontend for .NET API**](https://github.com/maynak-dev/react-frontend-dotnet-api) – React.js + Bootstrap
+🔹 [**Student Record System**](https://github.com/maynak-dev/Project-StudentRecordSystem) –  ASP.NET Core MVC (.NET 9)+Entity Framework Core+SQL Server LocalDB+Bootstrap 5+VisualStudio 22
 
 ---
 
