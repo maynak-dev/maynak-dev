@@ -31,6 +31,7 @@
 
 ## 📂 Featured Projects
 🔹 [**Student Record System**](https://github.com/maynak-dev/Project-StudentRecordSystem) –  ASP.NET Core MVC (.NET 9)+Entity Framework Core+SQL Server LocalDB+Bootstrap 5+VisualStudio 22
+🔹 [**Uber Fare Prediction**](https://github.com/maynak-dev/Project-UberFarePrediction) –  .NET 9 SDK + ML.NET Model Builder + VisualStudio 22
 
 ---
 
