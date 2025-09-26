@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
@@ -46,7 +48,7 @@
 
 ### 🔹 Machine Learning & Data Science
 - [**Uber Fare Prediction**](https://github.com/maynak-dev/Project-UberFarePrediction) – .NET 9 SDK + ML.NET Model Builder + Visual Studio 22  
-- [**Stock Price Prediction**](#) *(coming soon)* – Python + Scikit-Learn + Pandas + Matplotlib  
+- [**Stock Price Prediction**](#) *(coming soon)* – Python + Scikit-Learn + Pandas + Matplotlib + PostgreSQL  
 - [**Real vs Fake Voice Detection**](#) *(work in progress)* – Deep Learning Model for detecting synthetic voices  
 
 ---
