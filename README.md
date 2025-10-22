@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maynak Dey</h1>
-<h3 align="center">🚀 Aspiring .NET Full Stack Developer | React.js | Data Science & Machine Learning Enthusiast</h3>
+<h3 align="center">🚀 Django | .NET | Data Science & Machine Learning Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:work.maynak@gmail.com">📧 Email</a> •
