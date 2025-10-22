@@ -69,11 +69,13 @@
 
 ### 🔹 Full Stack (.NET + ReactJS)
 - [**Student Record System**](https://github.com/maynak-dev/Project-StudentRecordSystem) – ASP.NET Core MVC (.NET 9) + Entity Framework Core + SQL Server LocalDB + Bootstrap 5 + Visual Studio 22  
-- [**Appointments Manager**](https://github.com/maynak-dev/Project-AppointmentsManager) – ASP.NET Core + ReactJs + Visual Studio 22  
+- [**Appointments Manager**](https://github.com/maynak-dev/Project-AppointmentsManager) – ASP.NET Core + ReactJs + Visual Studio 22
+- [**Blog Website**](https://github.com/maynak-dev/Django_Project-My_Blog_Website) – Django + Python + VSCode + SQLite
+- [**Social Media Platform**](https://github.com/maynak-dev/Dosto-lets-get-social) - Django + Python + Render + VSCode + SQLite
 
 ### 🔹 Machine Learning & Data Science
 - [**Uber Fare Prediction**](https://github.com/maynak-dev/Project-UberFarePrediction) – .NET 9 SDK + ML.NET Model Builder + Visual Studio 22  
-- [**Stock Price Prediction**](#) *(coming soon)* – Python + Scikit-Learn + Pandas + Matplotlib + PostgreSQL  
+- [**Titanic Survival Prediction**](https://github.com/maynak-dev/ML-Project-Titanic_Survival_Prediction) – Python + Scikit-Learn + Pandas + Matplotlib   
 - [**Real vs Fake Voice Detection**](#) *(work in progress)* – Deep Learning Model for detecting synthetic voices  
 
 ---
