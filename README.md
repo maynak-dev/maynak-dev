@@ -67,7 +67,7 @@
 
 ## 📂 Featured Projects
 
-### 🔹 Full Stack (.NET + ReactJS)
+### 🔹 Full Stack (.NET + ReactJS + Django + Python)
 - [**Student Record System**](https://github.com/maynak-dev/Project-StudentRecordSystem) – ASP.NET Core MVC (.NET 9) + Entity Framework Core + SQL Server LocalDB + Bootstrap 5 + Visual Studio 22  
 - [**Appointments Manager**](https://github.com/maynak-dev/Project-AppointmentsManager) – ASP.NET Core + ReactJs + Visual Studio 22
 - [**Blog Website**](https://github.com/maynak-dev/Django_Project-My_Blog_Website) – Django + Python + VSCode + SQLite
