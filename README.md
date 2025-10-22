@@ -14,9 +14,6 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-### 💻 Full Stack Development
 <h3 align="center">🧠 Tech Stack</h3>
 
 <p align="center">
@@ -55,8 +52,8 @@
 
 
 
-### 📊 Data Science & Machine Learning
-<p align="center">
+<h3 align="center">📊 Data Science & Machine Learning</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
