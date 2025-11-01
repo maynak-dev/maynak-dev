@@ -9,9 +9,9 @@
 
 ---
 
-## 📄 My Resume
+<!--## 📄 My Resume
 [📄 **Download My Resume**](#)
-
+-->
 ---
 ### 💻 Full Stack Development
 <h3 align="left">🧠 Tech Stack</h3>
