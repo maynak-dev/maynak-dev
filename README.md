@@ -7,8 +7,6 @@
   <a href="https://in.linkedin.com/in/maynak-dey-4a0046377">🔗 LinkedIn</a>
 </p>
 
----
-
 <!--## 📄 My Resume
 [📄 **Download My Resume**](#)
 -->
